@@ -27,7 +27,8 @@ def ask(q: Question):
 
 
 
-text = QLabel('деревня')
+
+fext = QLabel('деревня')
 btn_answer1 = QRadioButton('wilena')
 btn_answer2 = QRadioButton('woisko')
 btn_answer3 = QRadioButton('woinstva')
